@@ -10,8 +10,7 @@
     Run php artisan migrate </br>
     Run php artisan db:seed </br>
     Run php artisan serve </br>
-
-    Now you can visit the localhost link Default:  http://127.0.0.1:8000 </br>
+    Now you can visit the localhost link Default  http://127.0.0.1:8000 </br>
     Use manager@japantravel.com as email address </br>
     Use "password" as the password </br>
     Now you can log in to the manager admin panel. Here you can add Employees. </br>

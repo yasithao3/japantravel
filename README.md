@@ -21,4 +21,7 @@
     Once employee request for leaves, manager has to approve them via their admin panel. </br>
     An employee can't request leaves exceeding what he entitled
 
+    NOTE*
+    You must have an internet connection to get the stylesheets from CDN
+
 </p>
